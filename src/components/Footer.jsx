@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer>
-      <div className="foot-logo">Keanu<span className="dot">✦</span></div>
+      <div className="foot-logo">Keanu</div>
       <div className="foot-links">
         <a href="#hero">Home</a>
         <a href="#about">About</a>

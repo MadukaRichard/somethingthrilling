@@ -25,7 +25,7 @@ export default function Navbar({ theme, onToggleTheme }) {
   return (
     <>
       <nav className={`nav${scrolled ? " scrolled" : ""}`}>
-        <div className="nav-logo">Keanu<span className="dot">✦</span></div>
+        <div className="nav-logo">Keanu</div>
 
         <div className="nav-links">
           <a href="#hero">Home</a>
